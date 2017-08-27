@@ -5,7 +5,7 @@ Plugin Name: DM Slider Lead Form
 Plugin URI: http://www.designmissoula.com/
 Description: This is not just a plugin, it makes WordPress better.
 Author: Bradford Knowlton
-Version: 1.0.4
+Version: 1.0.5
 Author URI: http://bradknowlton.com/
 GitHub Plugin URI: https://github.com/DesignMissoula/DM-slider-lead-form
 */
@@ -17,6 +17,7 @@ Change Log
 1.0.2 Initial version
 1.0.3 Added Contact Button
 1.0.4 Fixed incorrect github plugin url
+1.0.5 Missing semicolon
 
 */
 
